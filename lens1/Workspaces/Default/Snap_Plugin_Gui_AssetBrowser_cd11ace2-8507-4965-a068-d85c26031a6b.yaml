@@ -1,0 +1,55 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 49
+    values:
+      - Head.mesh
+      - Occluder.mat
+      - cowboy_hat 2.glb
+      - cowboy_hat 2.glb/.hidden
+      - cowboy_hat 2.glb/.hidden/aiStandardSurface1
+      - cowboy_hat 2.glb/Materials
+      - cowboy_hat 2.glb/Materials/aiStandardSurface1
+      - cowboy_hat 2.glb/Meshes
+      - cowboy_hat 2.glb/Meshes/pCylinder1_aiStandardSurface1_0
+      - cowboy_hat 2.glb/Meshes/pCylinder2_aiStandardSurface1_0
+      - cowboy_hat 2.glb/Meshes/pSphere1_aiStandardSurface1_0
+      - cowboy_hat 2.glb/Meshes/pSphere2_aiStandardSurface1_0
+      - cowboy_hat 2.glb/Meshes/polySurface1_aiStandardSurface1_0
+      - cowboy_hat 2.glb/Meshes/polySurface2_aiStandardSurface1_0
+      - cowboy_hat 2.glb/Meshes/polySurface3_aiStandardSurface1_0
+      - cowboy_hat 2.glb/Meshes/polySurface4_aiStandardSurface1_0
+      - cowboy_hat 2.glb/Meshes/polySurface5_aiStandardSurface1_0
+      - cowboy_hat 2.glb/Meshes/polySurface6_aiStandardSurface1_0
+      - cowboy_hat 2.glb/Meshes/polySurface7_aiStandardSurface1_0
+      - cowboy_hat 2.glb/Meshes/polySurface8_aiStandardSurface1_0
+      - cowboy_hat 2.glb/Textures
+      - cowboy_hat 2.glb/Textures/texture
+      - cowboy_hat 2.glb/Textures/texture 3
+      - cowboy_hat 2.glb/Textures/texture 6
+      - cowboy_hat 2.glb/cowboy_hat 2
+      - cowboy_hat.glb
+      - cowboy_hat.glb/.hidden
+      - cowboy_hat.glb/.hidden/aiStandardSurface1
+      - cowboy_hat.glb/Materials
+      - cowboy_hat.glb/Materials/aiStandardSurface1
+      - cowboy_hat.glb/Meshes
+      - cowboy_hat.glb/Meshes/pCylinder1_aiStandardSurface1_0
+      - cowboy_hat.glb/Meshes/pCylinder2_aiStandardSurface1_0
+      - cowboy_hat.glb/Meshes/pSphere1_aiStandardSurface1_0
+      - cowboy_hat.glb/Meshes/pSphere2_aiStandardSurface1_0
+      - cowboy_hat.glb/Meshes/polySurface1_aiStandardSurface1_0
+      - cowboy_hat.glb/Meshes/polySurface2_aiStandardSurface1_0
+      - cowboy_hat.glb/Meshes/polySurface3_aiStandardSurface1_0
+      - cowboy_hat.glb/Meshes/polySurface4_aiStandardSurface1_0
+      - cowboy_hat.glb/Meshes/polySurface5_aiStandardSurface1_0
+      - cowboy_hat.glb/Meshes/polySurface6_aiStandardSurface1_0
+      - cowboy_hat.glb/Meshes/polySurface7_aiStandardSurface1_0
+      - cowboy_hat.glb/Meshes/polySurface8_aiStandardSurface1_0
+      - cowboy_hat.glb/Textures
+      - cowboy_hat.glb/Textures/texture
+      - cowboy_hat.glb/Textures/texture 3
+      - cowboy_hat.glb/Textures/texture 6
+      - cowboy_hat.glb/cowboy_hat
+      - occluder.ss_graph
+  options: 4
